@@ -34,7 +34,15 @@ body {
 #container h1 {
   font-size: 20px;
 }
-#post {
-  background: #fff;
+
+#post
+{
   padding: 1em;
+}
+
+#footer
+{
+  background: #777;
+  color: white;
+  text-align: center;
 }
